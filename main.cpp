@@ -1,7 +1,3 @@
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    return 0;
-}
+//
+// Created by bl5an on 2024-06-26.
+//
