@@ -1,3 +1,5 @@
-//
-// Created by bl5an on 2024-06-26.
-//
+
+
+int main() {
+    return 0;
+}
