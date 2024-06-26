@@ -81,7 +81,6 @@ public:
                 }
             }
         }
-
         return DFS_path;
     }
 };
@@ -114,7 +113,6 @@ public:
                 }
             }
         }
-
         return BFS_path;
     }
 };
