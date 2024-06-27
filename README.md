@@ -2,15 +2,15 @@
 
 
 ## Stack & Queue
-- no_10845 (pure queue)
-- no_1259 (palindrome)
+- no_10845(pure queue)
+- no_1259(palindrome)
 
 
 ## Recursion
 ### Pure Recurisve Function
 
 ### Dynamic Programming
-- no_1003.cpp (fibonacci)
+- no_1003(fibonacci)
 
 
 ## Tree
