@@ -22,7 +22,7 @@
 ## Graph
 ### DFS & BFS
 - no_1260(pure DFS, BFS)
-- no_1389(Kevin Bacon's 6 level rule)
+- no_1389(Kevin Bacon's 6 degree rule, BFS)
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
