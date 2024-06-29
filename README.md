@@ -3,7 +3,7 @@
 - C++, Python
 
 ## Implementation
-- no_11279(Set, Hash Table, Bool Masking)
+- no_11723(Set, Hash Table, Bool Masking)
 
 ## Stack & Queue
 - no_10845(pure queue)
