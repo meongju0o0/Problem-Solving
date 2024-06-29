@@ -1,7 +1,9 @@
 # Baekjoon Online Judge Solved Problems
+## Favorite Language
+- C++, Python
 
 ## Implementation
-- no_11279(set)
+- no_11279(Set, Hash Table, Bool Masking)
 
 ## Stack & Queue
 - no_10845(pure queue)
