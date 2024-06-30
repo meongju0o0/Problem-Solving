@@ -2,6 +2,9 @@
 ## Favorite Language
 - C++, Python
 
+## Implementation
+- no_11659(accumulated sum)
+
 ## Hash Table
 - no_11723(set, hash table, bool masking)
 - no_1764(unordered_set(hash set), set(ordered set, BST))
