@@ -4,7 +4,7 @@
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
-- no_1764(unordered_set(hash set), set(BST set version))
+- no_1764(unordered_set(hash set), set(ordered set, BST))
 
 ## Stack & Queue
 - no_10845(pure queue)
@@ -27,8 +27,8 @@
 ### DFS & BFS
 - no_1260(pure DFS, BFS)
 - no_1389(Kevin Bacon's 6 degree rule, BFS)
-- no_7569(BFS)
-- no_7576(BFS)
+- no_7569(BFS Search)
+- no_7576(BFS Search)
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
