@@ -22,6 +22,7 @@
 ### Priority Queue
 - no_1927(min heap)
 - no_11279(max heap)
+- no_11286(absolute min heap)
 
 ## Graph
 ### DFS & BFS
