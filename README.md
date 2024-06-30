@@ -2,15 +2,16 @@
 ## Favorite Language
 - C++, Python
 
-## Implementation
-- no_11723(Set, Hash Table, Bool Masking)
+## Hash Table
+- no_11723(set, hash table, bool masking)
+- no_1764(unordered_set(hash set), set(BST set version))
 
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(palindrome)
 
 ## Recursion
-### Pure Recurisve Function
+### Pure Recursive Function
 
 ### Dynamic Programming
 - no_1003(fibonacci)
@@ -27,6 +28,7 @@
 - no_1260(pure DFS, BFS)
 - no_1389(Kevin Bacon's 6 degree rule, BFS)
 - no_7569(BFS)
+- no_7576(BFS)
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
