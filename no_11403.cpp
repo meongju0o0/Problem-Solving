@@ -7,13 +7,13 @@ using namespace std;
 
 class Graph {
 private:
-    int num_vertices;
-    vector<vector<int>> adj_mat;
+    int num_vertices = 0;
+    vector<vector<int>> adj_mat{};
 public:
     Graph() = default;
 
-    Graph(int num_nodes, vector<vector<int>>& adj_mat) {
-        this->num_vertices = num_nodes;
+    Graph(int num_vertices, vector<vector<int>>& adj_mat) {
+        this->num_vertices = num_vertices;
         this->adj_mat = adj_mat;
     }
 
