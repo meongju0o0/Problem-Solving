@@ -5,11 +5,6 @@
 ## Implementation
 - no_11659(accumulated sum)
 
-## Hash Table
-- no_11723(set, hash table, bool masking)
-- no_1764(hash set, BST ordered set))
-- no_1620(hash set, BST ordered set))
-
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(palindrome)
@@ -38,6 +33,14 @@
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
+
+## Hash Table
+- no_11723(set, hash table, bool masking)
+- no_1764(hash set, BST ordered set))
+- no_1620(hash set, BST ordered set))
+
+## Greedy Algorithm
+- no_1931(greedy algorithm, sorting)
 
 ---
 
