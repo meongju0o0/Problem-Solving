@@ -37,11 +37,12 @@
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
-- no_1764(hash set, BST ordered set))
-- no_1620(hash set, BST ordered set))
+- no_1764(hash set, BST ordered set)
+- no_1620(hash set, BST ordered set)
 
 ## Greedy Algorithm
 - no_1931(greedy algorithm, sorting)
+- no_11399(greedy algorithm, sorting)
 
 ---
 
