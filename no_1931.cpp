@@ -5,15 +5,11 @@
 using namespace std;
 
 bool end_time_compare(vector<int>& time1, vector<int>& time2) {
-    return time1[1] < time2[1];
-}
-
-void prune_times(vector<vector<int>>& times, int cur_end_time) {
-    for(int i = 0; i < times.size(); i++) {
-        if(times[i][0] < cur_end_time) {
-            times.erase(times.begin()+i);
-            i--;
-        }
+    if (time1[1] != time2[1]) {
+        return time1[1] < time2[1];
+    }
+    else {
+        return time1[0] < time2[0];
     }
 }
 
@@ -31,13 +27,16 @@ int main() {
 
     sort(times.begin(), times.end(), end_time_compare);
 
-    int i = 0;
-    while(!times.empty()) {
-        prune_times(times, times[0][1]);
-        i++;
+    int cur_end_time = 0;
+    int cnt = 0;
+    for(int i = 0; i < n; i++) {
+        if(times[i][0] >= cur_end_time) {
+            cur_end_time = times[i][1];
+            cnt++;
+        }
     }
 
-    cout << i << endl;
+    cout << cnt << endl;
 
     times.clear();
     times.shrink_to_fit();
