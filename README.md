@@ -4,6 +4,8 @@
 
 ## Implementation
 - no_11659(accumulated sum)
+- no_31403(string, math)
+- no_25083(string)
 
 ## Stack & Queue
 - no_10845(pure queue)
