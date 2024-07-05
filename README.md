@@ -7,7 +7,8 @@
 - no_1259(palindrome)
 
 ## Tree
-### Binary Search Tree
+### BST(Binary Search Tree)
+- no_5639(pure BST)
 
 ### Priority Queue
 - no_1927(min heap)
@@ -15,7 +16,7 @@
 - no_11286(absolute min heap)
 
 ## Graph
-### DFS & BFS
+### BFS(Breadth First Search) & DFS(Depth First Search)
 - no_1260(pure DFS, BFS)
 - no_1389(Kevin Bacon's 6 degree rule, BFS)
 - no_7569(BFS Search)
