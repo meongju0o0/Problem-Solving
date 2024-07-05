@@ -45,7 +45,7 @@
 ## Greedy Algorithm
 - no_1931(greedy algorithm, sorting)
 - no_11399(greedy algorithm, sorting)
-- no_11047(greedy algorithm, sorted set)
+- no_11047(greedy algorithm, BST sorted set)
 
 ---
 
