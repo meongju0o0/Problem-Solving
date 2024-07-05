@@ -2,21 +2,9 @@
 ## Favorite Language
 - C++, Python
 
-## Implementation
-- no_11659(accumulated sum)
-- no_31403(string, math)
-- no_25083(string)
-
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(palindrome)
-
-## Recursion
-### Pure Recursive Function
-
-### Dynamic Programming
-- no_1003(fibonacci)
-- no_1463(counting recursive call)
 
 ## Tree
 ### Binary Search Tree
@@ -44,10 +32,25 @@
 - no_1764(hash set, BST sorted set)
 - no_1620(hash set, BST sorted set)
 
+## Recursion
+### Pure Recursive Function
+
+### Dynamic Programming
+- no_1003(fibonacci)
+- no_1463(counting recursive call)
+
 ## Greedy Algorithm
 - no_1931(greedy algorithm, sorting)
 - no_11399(greedy algorithm, sorting)
 - no_11047(greedy algorithm, BST sorted set)
+
+## Accumulated Sum
+- no_11659(accumulated sum)
+
+## Implementation
+- no_25083(string)
+- no_27866(string)
+- no_31403(string, math)
 
 ---
 
