@@ -1,6 +1,10 @@
 # Baekjoon Online Judge Solved Problems
 ## Baekjoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bl5angel)](https://solved.ac/bl5angel/)
+<a href="https://solved.ac/bl5angel/">
+    <p align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bl5angel" alt="solved.ac profile">
+    </p>
+</a>
 
 ## Favorite Language
 - C++, Python
