@@ -23,6 +23,9 @@
 - no_11286(absolute min heap)
 
 ## Graph
+### Spanning Tree
+- no_1197(Minimum Spanning Tree)
+
 ### BFS(Breadth First Search) & DFS(Depth First Search)
 - no_1260(pure DFS, BFS)
 - no_1389(Kevin Bacon's 6 degree rule, BFS)
@@ -64,3 +67,4 @@
 - no_31403(string, math)
 - no_30802(math)
 - no_15829(string, math, hashing)
+- no_2609(GCD, LCM, Euclidean Algorithm)
