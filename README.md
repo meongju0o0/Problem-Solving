@@ -52,6 +52,9 @@
 - no_11399(greedy algorithm, sorting)
 - no_11047(greedy algorithm, BST sorted set)
 
+## Brute-Force
+- no_2231(Digit Generator)
+
 ## Accumulated Sum
 - no_11659(accumulated sum)
 
@@ -60,3 +63,4 @@
 - no_27866(string)
 - no_31403(string, math)
 - no_30802(math)
+- no_15829(string, math, hashing)
