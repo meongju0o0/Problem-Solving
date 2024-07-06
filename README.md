@@ -52,6 +52,7 @@
 - no_25083(string)
 - no_27866(string)
 - no_31403(string, math)
+- no_30802(math)
 
 ---
 
