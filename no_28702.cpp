@@ -28,7 +28,7 @@ int main() {
                 add_cnt = 1;
             }
             catch(exception& e3) {
-                cerr << "No Changeable Number, error: " << e3.what() << endl;
+                cerr << "No Changeable Number" << endl;
             }
         }
     }
