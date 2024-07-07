@@ -57,6 +57,7 @@
 
 ## Brute-Force
 - no_2231(Digit Generator)
+- no_1436(Digit Check)
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
@@ -70,3 +71,4 @@
 - no_2609(GCD, LCM, Euclidean Algorithm)
 - no_10989(sorting)
 - no_28702(string, math)
+- no_1181(string, BST sorted set)
