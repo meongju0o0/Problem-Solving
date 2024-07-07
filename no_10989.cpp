@@ -15,22 +15,19 @@ int main() {
     for(int i = 0; i < n; i++) {
         int item;
         cin >> item;
-        if(my_map.find(item) == my_map.end()) {
-            my_map[item] = 1;
-        }
-        else {
+        if(my_map.contains(item)) {
             my_map[item]++;
         }
-    }
-
-    string result;
-    for(auto& item: my_map) {
-        for(int i = 0; i < item.second; i++) {
-            result += (to_string(item.first) + "\n");
+        else {
+            my_map[item] = 1;
         }
     }
 
-    cout << result;
+    for(pair<const int, int>& item: my_map) {
+        for(int i = 0; i < item.second; i++) {
+            printf("%d\n", item.first);
+        }
+    }
 
     return 0;
 }
