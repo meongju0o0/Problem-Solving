@@ -78,3 +78,4 @@
 - no_28702(string, math)
 - no_1929(math, Sieve of Eratosthenes)
 - no_2960(math, Sieve of Eratosthenes)
+- no_1676(math, factorial)
