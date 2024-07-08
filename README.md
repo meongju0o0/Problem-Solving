@@ -21,6 +21,7 @@
 - no_1927(min heap)
 - no_11279(max heap)
 - no_11286(absolute min heap)
+- no_1966(priority queue)
 
 ## Graph
 ### Spanning Tree
