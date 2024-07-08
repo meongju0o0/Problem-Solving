@@ -11,7 +11,8 @@
 
 ## Stack & Queue
 - no_10845(pure queue)
-- no_1259(palindrome)
+- no_1259(stack, queue, palindrome)
+- no_11866(queue, Josephus problem)
 
 ## Tree
 ### BST(Binary Search Tree)
