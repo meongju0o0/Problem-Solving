@@ -70,6 +70,7 @@
 - no_2751(BST sorted set)
 - no_1920(BST sorted set)
 - no_11650(BST sorted set, tuple records)
+- no_11651(BST sorted set, tuple records)
 - no_10814(BST sorted set, tuple records)
 
 ## Implementation
