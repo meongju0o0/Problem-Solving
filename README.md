@@ -60,6 +60,7 @@
 ## Brute-Force
 - no_2231(Digit Generator)
 - no_1436(Digit Check)
+- no_1018(Matrix Check)
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
