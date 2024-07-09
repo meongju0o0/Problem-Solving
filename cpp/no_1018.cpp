@@ -5,7 +5,7 @@
 
 using namespace std;
 
-bool chk_color(char**& mat, bool**& chk_arr, char color, int i, int j) {
+bool chk_color(char**& mat, char color, int i, int j) {
     if(mat[i-1][j] == color && mat[i+1][j] == color && mat[i][j-1] == color && mat[i][j+1] == color) {
         return false;
     }
@@ -15,18 +15,10 @@ bool chk_color(char**& mat, bool**& chk_arr, char color, int i, int j) {
 }
 
 int make_chess_mat(char**& mat, int m, int n) {
-    bool** chk_arr = new bool*[m+2];
-    for(int i = 0; i < m+2; i++) {
-        chk_arr[i] = new bool[n+2];
-        for(int j = 0; j < n+2; j++) {
-            chk_arr[i][j] = false;
-        }
-    }
-
     int cnt = 0;
     for(int i = 1; i <= m; i++) {
         for(int j = 1; j <= n; j++) {
-            if(!chk_color(mat, chk_arr, mat[i][j], i, j)) {
+            if(!chk_color(mat, mat[i][j], i, j)) {
                 cnt++;
                 if(mat[i][j] == 'B') {
                     mat[i][j] = 'W';
@@ -37,11 +29,6 @@ int make_chess_mat(char**& mat, int m, int n) {
             }
         }
     }
-
-    for(int i = 0; i < m+2; i++) {
-        delete[] chk_arr[i];
-    }
-    delete[] chk_arr;
 
     return cnt;
 }
