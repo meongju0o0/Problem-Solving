@@ -1,36 +1,46 @@
 #include <iostream>
 #include <string>
-#include <vector>
-#include <unordered_set>
+#include <algorithm>
+#include <climits>
 
 using namespace std;
 
-bool chk_color(char**& mat, char color, int i, int j) {
-    if(mat[i-1][j] == color && mat[i+1][j] == color && mat[i][j-1] == color && mat[i][j+1] == color) {
-        return false;
-    }
-    else {
-        return true;
-    }
-}
-
-int make_chess_mat(char**& mat, int m, int n) {
+int chk_color(char**& ori_mat, char**& correct_mat, int row, int col) {
     int cnt = 0;
-    for(int i = 1; i <= m; i++) {
-        for(int j = 1; j <= n; j++) {
-            if(!chk_color(mat, mat[i][j], i, j)) {
+    for(int i = 0; i < 8; i++) {
+        for(int j = 0; j < 8; j++) {
+            if(ori_mat[row + i][col + j] != correct_mat[i][j]) {
                 cnt++;
-                if(mat[i][j] == 'B') {
-                    mat[i][j] = 'W';
-                }
-                else if(mat[i][j] == 'W') {
-                    mat[i][j] = 'B';
-                }
             }
         }
     }
-
     return cnt;
+}
+
+void make_white_chess_mat(char**& mat) {
+    for(int i = 0; i < 8; i++) {
+        for(int j = 0; j < 8; j++) {
+            if((i + j) % 2 == 0) {
+                mat[i][j] = 'W';
+            }
+            else {
+                mat[i][j] = 'B';
+            }
+        }
+    }
+}
+
+void make_black_chess_mat(char**& mat) {
+    for(int i = 0; i < 8; i++) {
+        for(int j = 0; j < 8; j++) {
+            if((i + j) % 2 == 0) {
+                mat[i][j] = 'B';
+            }
+            else {
+                mat[i][j] = 'W';
+            }
+        }
+    }
 }
 
 int main() {
@@ -41,28 +51,59 @@ int main() {
     cin >> m >> n;
     cin.ignore();
 
-    char** arr = new char*[m+2];
-    for(int i = 0; i < m+2; i++) {
-        arr[i] = new char[n+2];
-        for(int j = 0; j < n+2; j++) {
-            arr[i][j] = 'X';
-        }
+    char** ori_mat = new char*[m];
+    for(int i = 0; i < m; i++) {
+        ori_mat[i] = new char[n];
     }
 
     for(int i = 0; i < m; i++) {
         string row;
         getline(cin, row);
         for(int j = 0; j < n; j++) {
-            arr[i+1][j+1] = row[j];
+            ori_mat[i][j] = row[j];
         }
     }
 
-    cout << make_chess_mat(arr, m, n);
-
-    for(int i = 0; i < m+2; i++) {
-        delete[] arr[i];
+    char** white_mat = new char*[8];
+    for(int i = 0; i < 8; i++) {
+        white_mat[i] = new char[8];
     }
-    delete[] arr;
+    make_white_chess_mat(white_mat);
+
+    char** black_mat = new char*[8];
+    for(int i = 0; i < 8; i++) {
+        black_mat[i] = new char[8];
+    }
+    make_black_chess_mat(black_mat);
+
+    int min_cnt = INT_MAX;
+
+    for(int i = 0; i <= m - 8; i++) {
+        for(int j = 0; j <= n - 8; j++) {
+            int white_cnt = chk_color(ori_mat, white_mat, i, j);
+            int black_cnt = chk_color(ori_mat, black_mat, i, j);
+            min_cnt = min(min_cnt, min(white_cnt, black_cnt));
+        }
+    }
+
+    //Print Results
+    cout << min_cnt;
+
+    //Memory Deallocation
+    for(int i = 0; i < m; i++) {
+        delete[] ori_mat[i];
+    }
+    delete[] ori_mat;
+
+    for(int i = 0; i < 8; i++) {
+        delete[] white_mat[i];
+    }
+    delete[] white_mat;
+
+    for(int i = 0; i < 8; i++) {
+        delete[] black_mat[i];
+    }
+    delete[] black_mat;
 
     return 0;
 }
