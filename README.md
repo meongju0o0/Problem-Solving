@@ -44,6 +44,7 @@
 - no_11723(set, hash table, bool masking)
 - no_1764(hash set, BST sorted set)
 - no_1620(hash set, BST sorted set)
+- no_10816(hash map)
 
 ## Recursion
 ### Pure Recursive Function
