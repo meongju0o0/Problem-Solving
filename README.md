@@ -57,6 +57,7 @@
 - no_1931(greedy algorithm, sorting)
 - no_11399(greedy algorithm, sorting)
 - no_11047(greedy algorithm, BST sorted set)
+- no_12904(greedy algorithm, string)
 
 ## Brute-Force
 - no_2231(Digit Generator)
