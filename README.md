@@ -76,6 +76,7 @@
 - no_11651(BST sorted set, tuple records)
 - no_10814(BST sorted set, tuple records)
 - no_7568(unordered vector, tuple records, Ranking Comparison)
+- no_18110(sorting, trimmed mean)
 
 ## Implementation
 - no_25083(string)
