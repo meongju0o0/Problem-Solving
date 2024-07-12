@@ -1,4 +1,5 @@
 /cpp/cmake-build-debug
 /cpp/cmake-build-debug-cygwin
+/cpp/cmake-build-debug-msvc
 /cpp/.idea
 /python/.idea

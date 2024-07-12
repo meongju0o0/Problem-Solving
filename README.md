@@ -56,6 +56,7 @@
 ### Back Tracking
 - no_15650(combination)
 - no_15652(combination with repetition)
+- no_15663(duplicated items combination)
 
 ## Greedy Algorithm
 - no_1931(greedy algorithm, sorting)
