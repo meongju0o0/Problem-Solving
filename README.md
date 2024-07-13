@@ -36,6 +36,7 @@
 - no_11403(BFS Search)
 - no_14940(BFS Search)
 - no_11724(BFS, counting number of graphs)
+- no_11725(Tree BFS Traverse)
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
