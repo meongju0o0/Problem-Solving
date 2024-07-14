@@ -18,6 +18,8 @@
 ### Pure Tree
 - no_1991(Tree Traversal)
 - no_11725(Tree BFS Traverse)
+- no_1967(Tree Diameter)
+- no_1167(Tree Diameter)
 
 ### BST(Binary Search Tree)
 - no_5639(pure BST)
