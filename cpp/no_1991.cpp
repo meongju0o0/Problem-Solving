@@ -47,13 +47,14 @@ private:
         }
     }
 
-    void _delete_nodes(const Node* cur_node) {
-        if(cur_node->left_child == nullptr || cur_node->right_child == nullptr) {
-            delete cur_node;
+    void _delete_nodes(Node* cur_node) {
+        if(cur_node == nullptr) {
+            return;
         }
         else {
             _delete_nodes(cur_node->left_child);
             _delete_nodes(cur_node->right_child);
+            delete cur_node;
         }
     }
 
