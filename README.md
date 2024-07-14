@@ -15,6 +15,10 @@
 - no_11866(queue, Josephus problem)
 
 ## Tree
+### Pure Tree
+- no_1991(Tree Traversal)
+- no_11725(Tree BFS Traverse)
+
 ### BST(Binary Search Tree)
 - no_5639(pure BST)
 
@@ -36,7 +40,6 @@
 - no_11403(BFS Search)
 - no_14940(BFS Search)
 - no_11724(BFS, counting number of graphs)
-- no_11725(Tree BFS Traverse)
 
 ### Dijkstra
 - no_1753(only shortest path's weight)
