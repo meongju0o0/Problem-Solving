@@ -59,6 +59,7 @@
 ### Dynamic Programming
 - no_1003(fibonacci)
 - no_1463(counting recursive call)
+- no_11053(LCS, Longest Common Subsequence)
 
 ### Divide&Conquer
 - no_11444(fibonacci, matrix multiplication)
@@ -83,6 +84,7 @@
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
+- no_11660(DP, N×N accumulated sum)
 
 ## Sorting
 - no_10989(sorting)
