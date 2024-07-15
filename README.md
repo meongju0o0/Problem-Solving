@@ -54,6 +54,7 @@
 
 ## Recursion
 ### Pure Recursive Function
+- no_2448(recursive pattern printing)
 
 ### Dynamic Programming
 - no_1003(fibonacci)
