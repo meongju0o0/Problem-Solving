@@ -56,11 +56,6 @@
 ### Pure Recursive Function
 - no_2448(recursive pattern printing)
 
-### Dynamic Programming
-- no_1003(fibonacci)
-- no_1463(counting recursive call)
-- no_11053(LCS, Longest Common Subsequence)
-
 ### Divide&Conquer
 - no_11444(fibonacci, matrix multiplication)
 - no_2749(fibonacci, matrix multiplication)
@@ -81,6 +76,13 @@
 - no_2231(Digit Generator)
 - no_1436(Digit Check)
 - no_1018(Matrix Check)
+
+### Dynamic Programming
+- no_1003(fibonacci)
+- no_1463(counting recursive call)
+- no_11053(LIS, Longest Increasing Subsequence)
+- no_11722(LDS, Longest Decreasing Subsequence)
+- no_11054(LBS, Longest Bitonic Subsequence)
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
