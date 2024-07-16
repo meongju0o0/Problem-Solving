@@ -1,8 +1,6 @@
 ﻿#include <iostream>
 #include <vector>
-#include <queue>
 #include <algorithm>
-#include <climits>
 
 using namespace std;
 
@@ -13,24 +11,22 @@ int main() {
     int n;
     cin >> n;
 
-    vector<int> seq(n+1, INT_MAX);
-    vector<int> memo(n+1, 0);
-
-    for(int i = 1; i <= n; i++) {
-        cin >> seq[i];
+    vector<int> items(n);
+    for (int& item : items) {
+        cin >> item;
     }
 
-    for(int i = 1; i <= n; i++) {
-        priority_queue<int> idx_queue;
-        for(int j = 0; j < i; j++) {
-            if(seq[i] < seq[j]) {
-                idx_queue.push(memo[j]);
+    vector<int> LDS(n, 1);
+
+    for (int i = n - 1; i >= 0; i--) {
+        for (int j = n - 1; j >= i; j--) {
+            if (items[i] > items[j]) {
+                LDS[i] = max(LDS[i], LDS[j] + 1);
             }
         }
-        memo[i] = idx_queue.top() + 1;
     }
 
-    cout << *ranges::max_element(memo.begin(), memo.end());
+    cout << *ranges::max_element(LDS.begin(), LDS.end());
 
     return 0;
 }

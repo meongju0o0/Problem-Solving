@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <vector>
-#include <queue>
 #include <algorithm>
 
 using namespace std;
@@ -12,24 +11,22 @@ int main() {
     int n;
     cin >> n;
 
-    vector<int> seq(n+1, 0);
-    vector<int> memo(n+1, 0);
-
-    for(int i = 1; i <= n; i++) {
-        cin >> seq[i];
+    vector<int> items(n);
+    for (int& item : items) {
+        cin >> item;
     }
 
-    for(int i = 1; i <= n; i++) {
-        priority_queue<int> idx_queue;
-        for(int j = 0; j < i; j++) {
-            if(seq[i] > seq[j]) {
-                idx_queue.push(memo[j]);
+    vector<int> LIS(n, 1);
+
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < i; j++) {
+            if (items[i] > items[j]) {
+                LIS[i] = max(LIS[i], LIS[j] + 1);
             }
         }
-        memo[i] = idx_queue.top() + 1;
     }
 
-    cout << *ranges::max_element(memo.begin(), memo.end());
+    cout << *ranges::max_element(LIS.begin(), LIS.end());
 
     return 0;
 }
