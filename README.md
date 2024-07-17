@@ -83,6 +83,7 @@
 - no_11053(LIS, Longest Increasing Subsequence)
 - no_11722(LDS, Longest Decreasing Subsequence)
 - no_11054(LBS, Longest Bitonic Subsequence)
+- no_9251(LCS, Longest Common Subsequence)
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
@@ -110,3 +111,4 @@
 - no_1929(math, Sieve of Eratosthenes)
 - no_2960(math, Sieve of Eratosthenes)
 - no_1676(math, factorial)
+- no_10807(for loop)
