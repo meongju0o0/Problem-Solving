@@ -44,7 +44,8 @@
 - no_11724(BFS, counting number of graphs)
 
 ### Dijkstra
-- no_1753(only shortest path's weight)
+- no_1753(shortest path's weight)
+- no_1916(shortest path's weight)
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
