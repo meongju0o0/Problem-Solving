@@ -79,13 +79,12 @@
 - no_1436(Digit Check)
 - no_1018(Matrix Check)
 
-### Dynamic Programming
+## Dynamic Programming
 - no_1003(fibonacci)
 - no_1463(counting recursive call)
 - no_11053(LIS, Longest Increasing Subsequence)
 - no_11722(LDS, Longest Decreasing Subsequence)
 - no_11054(LBS, Longest Bitonic Subsequence)
-- no_9251(LCS, Longest Common Subsequence)
 
 ## Accumulated Sum
 - no_11659(accumulated sum)
