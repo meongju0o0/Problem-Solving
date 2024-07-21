@@ -48,6 +48,7 @@
 - no_1753(shortest path's weight)
 - no_1916(shortest path's weight)
 - no_1504(shortest path's weight)
+- no_11779(shortest path tracing)
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
