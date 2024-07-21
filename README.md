@@ -9,6 +9,9 @@
 ## Favorite Language
 - C++, Python
 
+## Linked List
+- no_1406(text editor, cursor)
+
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(stack, queue, palindrome)
@@ -84,6 +87,7 @@
 - no_1676(math, factorial)
 - no_10807(for loop)
 - no_2740(linear algebra)
+- no_2180(statistics)
 
 ## Sorting
 - no_10989(sorting)
