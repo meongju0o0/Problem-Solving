@@ -68,6 +68,7 @@
 - no_2749(fibonacci, matrix multiplication)
 - no_15624(fibonacci, matrix multiplication)
 - no_10830(matrix multiplication)
+- no_1654()
 
 ### Back Tracking
 - no_15650(combination)
