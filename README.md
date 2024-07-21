@@ -89,6 +89,7 @@
 - no_10807(for loop)
 - no_2740(linear algebra)
 - no_2180(statistics)
+- no_1654(Binary Search)
 
 ## Sorting
 - no_10989(sorting)
