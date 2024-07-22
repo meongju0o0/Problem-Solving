@@ -9,14 +9,14 @@
 ## Favorite Language
 - C++, Python
 
-## Linked List
-- no_1406(text editor, cursor)
-
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(stack, queue, palindrome)
 - no_11866(queue, Josephus problem)
 - no_1918(postfix notification)
+
+## Linked List
+- no_1406(text editor, cursor)
 
 ## Tree
 ### Pure Tree
