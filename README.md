@@ -46,6 +46,7 @@
 - no_11403(BFS Search)
 - no_14940(BFS Search)
 - no_11724(BFS, counting number of graphs)
+- no_1707(BFS, checking bipartite graph)
 
 ### Dijkstra
 - no_1753(shortest path's weight)
@@ -68,7 +69,6 @@
 - no_2749(fibonacci, matrix multiplication)
 - no_15624(fibonacci, matrix multiplication)
 - no_10830(matrix multiplication)
-- no_1654()
 
 ### Back Tracking
 - no_15650(combination)
