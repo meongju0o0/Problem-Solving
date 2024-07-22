@@ -34,6 +34,9 @@
 - no_11286(absolute min heap)
 - no_1966(priority queue)
 
+### Trie
+- no_5052(duplicated word searching)
+
 ## Graph
 ### Spanning Tree
 - no_1197(Minimum Spanning Tree)
@@ -76,6 +79,7 @@
 - no_15663(duplicated items combination)
 
 ## Implementation
+- no_25314(string)
 - no_25083(string)
 - no_27866(string)
 - no_31403(string, math)
