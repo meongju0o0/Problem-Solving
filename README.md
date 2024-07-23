@@ -38,9 +38,6 @@
 - no_5052(duplicated word searching)
 
 ## Graph
-### Spanning Tree
-- no_1197(Minimum Spanning Tree)
-
 ### BFS(Breadth First Search) & DFS(Depth First Search)
 - no_1260(pure DFS, BFS)
 - no_1389(Kevin Bacon's 6 degree rule, BFS)
@@ -56,6 +53,13 @@
 - no_1916(shortest path's weight)
 - no_1504(shortest path's weight)
 - no_11779(shortest path tracing)
+
+### Graph Properties
+- no_1178(Euler Path)
+- no_1762(counting triangles)
+
+### Spanning Tree
+- no_1197(Minimum Spanning Tree, Prim Algorithm)
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
