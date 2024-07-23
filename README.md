@@ -54,13 +54,13 @@
 - no_1504(shortest path's weight)
 - no_11779(shortest path tracing)
 
+### Spanning Tree
+- no_1197(Minimum Spanning Tree, Prim Algorithm)
+
 ### Graph Properties
 - no_1199(Euler Circuit)
 - no_1178(Euler Path)
 - no_1762(counting triangles)
-
-### Spanning Tree
-- no_1197(Minimum Spanning Tree, Prim Algorithm)
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
