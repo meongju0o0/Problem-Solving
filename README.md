@@ -33,6 +33,7 @@
 - no_11279(max heap)
 - no_11286(absolute min heap)
 - no_1966(priority queue)
+- no_7662(dual priority queue, BST ordered map)
 
 ### Trie
 - no_5052(duplicated word searching)
