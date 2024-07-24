@@ -1,4 +1,14 @@
 # Baekjoon Online Judge Solved Problems
+## Favorite Language
+- C++, Python
+
+## Baekjoon Tier
+<a href="https://solved.ac/bl5angel/">
+    <p align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bl5angel" alt="solved.ac profile">
+    </p>
+</a>
+
 ## Stack & Queue
 - no_10845(pure queue)
 - no_1259(stack, queue, palindrome)
@@ -122,13 +132,3 @@
 ## Accumulated Sum
 - no_11659(accumulated sum)
 - no_11660(DP, N×N accumulated sum)
-
-## Favorite Language
-- C++, Python
-
-## Baekjoon Tier
-<a href="https://solved.ac/bl5angel/">
-    <p align="center">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bl5angel" alt="solved.ac profile">
-    </p>
-</a>
