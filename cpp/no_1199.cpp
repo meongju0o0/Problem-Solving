@@ -55,7 +55,8 @@ void get_euler_circuit(Graph& graph, vector<int>& euler_circuit) {
             int next_vertex = graph.get_neighbors(cur_vertex).begin()->first;
             candidates.push(next_vertex);
             graph.remove_edge(cur_vertex, next_vertex);
-        } else {
+        }
+        else {
             euler_circuit.push_back(cur_vertex);
             candidates.pop();
         }
