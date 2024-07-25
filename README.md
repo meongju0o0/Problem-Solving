@@ -68,6 +68,7 @@
 - no_1620(hash set, BST sorted set)
 - no_10816(hash map)
 - no_17219(BST sorted map)
+- no_7785(BST sorted map)
 
 ## Recursion
 ### Pure Recursive Function
