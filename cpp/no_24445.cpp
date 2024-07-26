@@ -2,7 +2,7 @@
 #include <vector>
 #include <set>
 #include <unordered_set>
-#include <stack>
+#include <queue>
 
 using namespace std;
 
@@ -31,18 +31,18 @@ public:
     }
 };
 
-vector<int> dfs(Graph& graph, const int& start_vertex) {
+vector<int> bfs(Graph& graph, const int& start_vertex) {
     //Postcondition
     int cnt = 0;
     vector<int> dfs_path(graph.get_num_vertices(), 0);
 
     //DFS Traverse
-    stack<int> candidates;
+    queue<int> candidates;
     unordered_set<int> visited;
 
     candidates.push(start_vertex);
     while(!candidates.empty()) {
-        int cur_vertex = candidates.top();
+        int cur_vertex = candidates.front();
         candidates.pop();
         if(!visited.contains(cur_vertex)) {
             visited.insert(cur_vertex);
@@ -76,9 +76,9 @@ int main() {
 
     Graph graph = Graph(edges);
 
-    vector<int> dfs_path = dfs(graph, start_vertex - 1);
+    vector<int> bfs_path = bfs(graph, start_vertex - 1);
 
-    for(const int& visit_order: dfs_path) {
+    for(const int& visit_order: bfs_path) {
         printf("%d\n", visit_order);
     }
 
