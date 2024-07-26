@@ -61,6 +61,7 @@
 ### Graph Properties
 - [no_1199(Eulerian Circuit)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1199.cpp)
 - [no_1178(Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1178.cpp)
+- [no_18250(Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_18250.cpp)
 - [no_16168(Checking Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_16168.cpp)
 
 ## Hash Table
@@ -100,7 +101,7 @@
 - [no_1676(math, factorial)](https://github.com/meongju0o0/baekjoon/blob/master/python/no_1676.py)
 - [no_10807(for loop)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10807.cpp)
 - [no_2740(linear algebra)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2740.cpp)
-- [no_2180(statistics)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2180.cpp)
+- [no_2108(statistics)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2108.cpp)
 - [no_1654(Binary Search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1654.cpp)
 
 ## Sorting
@@ -138,3 +139,4 @@
 - [no_11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11660.cpp)
 
 ## temp
+- [no_24479](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24479.cpp)
