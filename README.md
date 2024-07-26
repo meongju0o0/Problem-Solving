@@ -59,8 +59,9 @@
 - no_1197(Minimum Spanning Tree, Prim Algorithm)
 
 ### Graph Properties
-- no_1199(Euler Circuit)
-- no_1178(Euler Path)
+- no_1199(Eulerian Circuit)
+- no_1178(Eulerian Path)
+- no_16168(Checking Eulerian Path)
 
 ## Hash Table
 - no_11723(set, hash table, bool masking)
