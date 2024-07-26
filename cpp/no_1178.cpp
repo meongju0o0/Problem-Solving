@@ -1,71 +1,93 @@
 ﻿#include <iostream>
-#include <stack>
-#include <unordered_map>
+#include <vector>
+#include <queue>
 #include <unordered_set>
 
 using namespace std;
 
 class Graph {
 private:
-    unordered_map<int, unordered_set<int>> edges;
-    unordered_set<int> dummy_neighbors{};
+    vector<vector<int>> edges;
 public:
     Graph() = default;
 
-    explicit Graph(const unordered_map<int, unordered_set<int>>& _edges) {
+    explicit Graph(const vector<vector<int>>& _edges) {
         edges = _edges;
     }
 
-    [[nodiscard]] int get_degree(const int& vertex) {
-        return static_cast<int>(edges[vertex].size());
+    [[nodiscard]] unsigned get_num_vertices() const {
+        return edges.size();
     }
 
-    [[nodiscard]] unordered_set<int>& get_neighbors(const int& vertex) {
-        if(edges.contains(vertex)) {
-            return edges[vertex];
-        }
-        else {
-            return dummy_neighbors;
-        }
+    [[nodiscard]] unsigned get_degree(const int& vertex) const {
+        return edges[vertex].size();
+    }
+
+    [[nodiscard]] vector<int> get_neighbors(const int& vertex) const {
+        return edges[vertex];
     }
 };
 
-int get_num_travels(Graph& graph, unordered_set<int>& not_visited) {
-    int num_travels = 0;
+int num_needed_edges(const Graph& graph) {
+    priority_queue<int> odd_degree_cnts;
 
-    stack<int> candidates;
+    //BFS Traverse
+    unordered_set<int> visited;
+    while(visited.size() != graph.get_num_vertices()) {
+        int odd_degree_cnt = 0;
+        queue<int> candidates;
+        for(int i = 0; i < graph.get_num_vertices(); i++) {
+            if(!visited.contains(i)) {
+                candidates.push(i);
+                break;
+            }
+        }
 
-    while(!not_visited.empty()) {
-        int partial_odd_cnt = 0;
-        candidates.push(*not_visited.begin());
         while(!candidates.empty()) {
-            int cur_vertex = candidates.top();
+            int cur_vertex = candidates.front();
             candidates.pop();
-            if(not_visited.contains(cur_vertex)) {
-                not_visited.erase(cur_vertex);
+            if(!visited.contains(cur_vertex)) {
+                visited.insert(cur_vertex);
                 if(graph.get_degree(cur_vertex) % 2 == 1) {
-                    partial_odd_cnt++;
+                    odd_degree_cnt++;
                 }
-                else if(graph.get_degree(cur_vertex) == 0) {
-                    partial_odd_cnt = -1;
-                    break;
-                }
-                for(const int& neighbor: graph.get_neighbors(cur_vertex)) {
-                    if(not_visited.contains(neighbor)) {
+                for(int& neighbor: graph.get_neighbors(cur_vertex)) {
+                    if(!visited.contains(neighbor)) {
                         candidates.push(neighbor);
                     }
                 }
             }
         }
-        if(partial_odd_cnt == 0) {
-            num_travels += 1;
-        }
-        else if(partial_odd_cnt > 0) {
-            num_travels += partial_odd_cnt / 2;
-        }
+        odd_degree_cnts.push(odd_degree_cnt);
     }
 
-    return num_travels;
+    //Determine needed edges
+    int needed_edges = 0;
+    while(odd_degree_cnts.size() > 1){
+        int odd_degree_1 = odd_degree_cnts.top();
+        odd_degree_cnts.pop();
+        int odd_degree_2 = odd_degree_cnts.top();
+        odd_degree_cnts.pop();
+
+        int connected_odd_degree = 0;
+        if(odd_degree_1 > 0 && odd_degree_2 > 0) {
+            connected_odd_degree = odd_degree_1 + odd_degree_2 - 2;
+        }
+        else if(odd_degree_1 > 0 && odd_degree_2 == 0) {
+            connected_odd_degree = odd_degree_1 + odd_degree_2;
+        }
+        else if(odd_degree_1 == 0 && odd_degree_2 == 0) {
+            connected_odd_degree = 2;
+        }
+        odd_degree_cnts.push(connected_odd_degree);
+
+        needed_edges++;
+    }
+    if(odd_degree_cnts.top() > 2) {
+        needed_edges += odd_degree_cnts.top() / 2 - 1;
+    }
+
+    return needed_edges;
 }
 
 int main() {
@@ -75,22 +97,17 @@ int main() {
     int num_vertices, num_edges;
     cin >> num_vertices >> num_edges;
 
-    unordered_map<int, unordered_set<int>> edges;
-    unordered_set<int> not_visited;
-
+    vector<vector<int>> edges(num_vertices, vector<int>(0));
     for(int i = 0; i < num_edges; i++) {
-        int from_vertex, to_vertex;
-        cin >> from_vertex >> to_vertex;
-        edges[from_vertex].insert(to_vertex);
-        edges[to_vertex].insert(from_vertex);
-        not_visited.insert(from_vertex);
-        not_visited.insert(to_vertex);
+        int u, v;
+        cin >> u >> v;
+        edges[u-1].push_back(v-1);
+        edges[v-1].push_back(u-1);
     }
 
     Graph graph = Graph(edges);
 
-    int num_travels = get_num_travels(graph, not_visited);
-    printf("%d", num_travels);
+    cout << num_needed_edges(graph) << endl;
 
     return 0;
 }

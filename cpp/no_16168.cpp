@@ -52,6 +52,7 @@ bool is_euler_path_exist(const Graph& graph) {
         }
     }
 
+    //Check Eulerian Path Property
     if(visited.size() == graph.get_num_vertices()) {
         if(odd_degree_cnt == 0 || odd_degree_cnt == 2) {
             return true;
