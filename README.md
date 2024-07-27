@@ -53,7 +53,7 @@
 - [no_24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24444.cpp)
 - [no_24445(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24445.cpp)
 - [no_24480(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24480.cpp)
-- [no_2606(BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
+- [no_2606(BFS Traverse)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
@@ -92,6 +92,7 @@
 - [no_15650(combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15650.cpp)
 - [no_15652(combination with repetition)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15652.cpp)
 - [no_15663(duplicated items combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15663.cpp)
+- [no_9095(duplicated combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_9095.cpp)
 
 ## Implementation
 - [no_25314(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_25314.cpp)
@@ -139,6 +140,7 @@
 - [no_11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11053.cpp)
 - [no_11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11722.cpp)
 - [no_11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11054.cpp)
+
 
 ## Accumulated Sum
 - [no_11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11659.cpp)
