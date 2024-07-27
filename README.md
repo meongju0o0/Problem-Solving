@@ -53,6 +53,7 @@
 - [no_24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24444.cpp)
 - [no_24445(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24445.cpp)
 - [no_24480(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24480.cpp)
+- [no_2606(BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
