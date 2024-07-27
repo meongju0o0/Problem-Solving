@@ -14,6 +14,7 @@
 - [no_1259(stack, queue, palindrome)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1259.cpp)
 - [no_11866(queue, Josephus problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11866.cpp)
 - [no_1918(postfix notification)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1918.cpp)
+- [no_1874(stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1874.cpp)
 
 ## Linked List
 - [no_1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1406.cpp)
