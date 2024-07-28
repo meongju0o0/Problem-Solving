@@ -111,6 +111,9 @@
 - [no_2108(statistics)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2108.cpp)
 - [no_1654(Binary Search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1654.cpp)
 
+## Geometry
+- [no_1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/no_1064.py)
+
 ## Sorting
 - [no_10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10989.cpp)
 - [no_1181(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1181.cpp)
