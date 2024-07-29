@@ -39,6 +39,10 @@
 ### Trie
 - [no_5052(duplicated word searching)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_5052.cpp)
 
+### Segment Tree
+- [no_2042(prefix sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2042.cpp)
+- [no_11505(prefix mul)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11505.cpp)
+
 ## Graph
 ### BFS(Breadth First Search) & DFS(Depth First Search)
 - [no_1260(pure DFS, BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1260.cpp)
