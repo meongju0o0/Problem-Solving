@@ -21,7 +21,7 @@ public:
         }
     }
 
-    void updateItem(int item_idx, long long new_val) {
+    void update_item(int item_idx, long long new_val) {
         int pos = num_items + item_idx - 1;
         tree[pos] = new_val;
         while (pos > 1) {
@@ -70,7 +70,7 @@ int main() {
     for(int i = 0; i < m + k; i++) {
         cin >> a >> b >> c;
         if (a == 1) {
-            seg_tree.updateItem(b, c);
+            seg_tree.update_item(b, c);
         }
         else if (a == 2) {
             printf("%lld\n", seg_tree.get_sum_query(b, c));
