@@ -137,6 +137,7 @@
 - [no_1439(greedy algorithm, toggle character, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1439.cpp)
 - [no_2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2057.cpp)
 - [no_1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1541.cpp)
+- [no_13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13305.cpp)
 
 ## Brute-Force
 - [no_2231(Digit Generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2231.cpp)
