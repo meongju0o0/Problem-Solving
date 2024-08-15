@@ -73,7 +73,6 @@
 - [no_1178(Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1178.cpp)
 - [no_18250(Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_18250.cpp)
 - [no_16168(Checking Eulerian Path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_16168.cpp)
-- [no_2098(traveling salesman problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2098.cpp)
 
 ## Hash Table
 - [no_11723(set, hash table, bool masking)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11723.cpp)
