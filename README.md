@@ -58,6 +58,7 @@
 - [no_24445(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24445.cpp)
 - [no_24480(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24480.cpp)
 - [no_2606(BFS Traverse)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
+- [no_2667(BFS Traverse)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2667.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
@@ -158,4 +159,4 @@
 - [no_11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11660.cpp)
 - [no_2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2559.cpp)
 
-## temp
+## Temp
