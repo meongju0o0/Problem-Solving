@@ -15,6 +15,7 @@
 - [no_11866(queue, Josephus problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11866.cpp)
 - [no_1918(postfix notification)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1918.cpp)
 - [no_1874(stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1874.cpp)
+- [no_28278(pure stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28278.cpp)
 
 ## Linked List
 - [no_1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1406.cpp)
@@ -63,6 +64,7 @@
 - [no_2178(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2178.cpp)
 - [no_1697(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1697.cpp)
 - [no_7562(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_7562.cpp)
+- [no_16928(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_16928.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
