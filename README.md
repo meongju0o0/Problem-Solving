@@ -57,8 +57,8 @@
 - [no_24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24444.cpp)
 - [no_24445(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24445.cpp)
 - [no_24480(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_24480.cpp)
-- [no_2606(BFS, couting number of graph)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
-- [no_2667(BFS, couting number of graph)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2667.cpp)
+- [no_2606(BFS, couting number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2606.cpp)
+- [no_2667(BFS, couting number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2667.cpp)
 - [no_1012(BFS, couting number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1012.cpp)
 - [no_2178(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2178.cpp)
 
