@@ -16,6 +16,7 @@
 - [no_1918(postfix notification)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1918.cpp)
 - [no_1874(stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1874.cpp)
 - [no_28278(pure stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28278.cpp)
+- [no_12789(stack, ordering)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12789.cpp)
 
 ## Linked List
 - [no_1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1406.cpp)
