@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void permutation(vector<vector<int>>& permu, int n, const vector<int>& cur_permu, unordered_set<int>& visited) {
+void permutation(vector<vector<int>>& permu, unordered_set<int>& visited, const vector<int>& cur_permu, const int n) {
     if(cur_permu.size() == n) {
         permu.push_back(cur_permu);
     }
@@ -14,7 +14,7 @@ void permutation(vector<vector<int>>& permu, int n, const vector<int>& cur_permu
                 visited.insert(i);
                 vector<int> temp_permu = cur_permu;
                 temp_permu.push_back(i);
-                permutation(permu, n, temp_permu, visited);
+                permutation(permu, visited, temp_permu, n);
                 visited.erase(i);
             }
         }
@@ -30,7 +30,7 @@ int main() {
 
     vector<vector<int>> permu;
     unordered_set<int> visited;
-    permutation(permu, n, vector<int>(0), visited);
+    permutation(permu, visited, vector<int>(0), n);
 
     for(const vector<int>& permu_line: permu) {
         for(const int& item: permu_line) {
