@@ -70,6 +70,7 @@
 - [no_12851(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12851.cpp)
 - [no_13549(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13549.cpp)
 - [no_13913(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13913.cpp)
+- [no_17070(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_17070.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
@@ -103,6 +104,7 @@
 - [no_2749(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2749.cpp)
 - [no_15624(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15624.cpp)
 - [no_10830(matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10830.cpp)
+- [no_2630(Divide & Conquer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2630.cpp)
 
 ### Back Tracking
 - [no_15650(combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15650.cpp)

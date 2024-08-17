@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void permutation(vector<vector<int>>& permu, int n, const vector<int> cur_permu, unordered_set<int>& visited) {
+void permutation(vector<vector<int>>& permu, int n, const vector<int>& cur_permu, unordered_set<int>& visited) {
     if(cur_permu.size() == n) {
         permu.push_back(cur_permu);
     }
