@@ -9,7 +9,7 @@
     </p>
 </a>
 
-## Stack & Queue
+## Stack, Queue, Deque
 - [no_10845(pure queue)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10845.cpp)
 - [no_1259(stack, queue, palindrome)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1259.cpp)
 - [no_11866(queue, Josephus problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11866.cpp)
@@ -17,6 +17,7 @@
 - [no_1874(stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1874.cpp)
 - [no_28278(pure stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28278.cpp)
 - [no_12789(stack, ordering)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12789.cpp)
+- [no_28279(Deque)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28279.cpp)
 
 ## Linked List
 - [no_1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1406.cpp)
@@ -66,6 +67,9 @@
 - [no_1697(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1697.cpp)
 - [no_7562(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_7562.cpp)
 - [no_16928(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_16928.cpp)
+- [no_12851(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12851.cpp)
+- [no_13549(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13549.cpp)
+- [no_13913(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13913.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
