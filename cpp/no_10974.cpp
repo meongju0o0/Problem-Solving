@@ -1,20 +1,19 @@
 ﻿#include <iostream>
 #include <vector>
+#include <string>
 #include <unordered_set>
 
 using namespace std;
 
-void permutation(vector<vector<int>>& permu, unordered_set<int>& visited, const vector<int>& cur_permu, const int n) {
-    if(cur_permu.size() == n) {
-        permu.push_back(cur_permu);
+void permutation(vector<string>& permu, unordered_set<int>& visited, const string& cur_permu, const int n) {
+    if(cur_permu.size() == 2 * n) {
+        printf("%s\n", cur_permu.c_str());
     }
     else {
         for(int i = 1; i <= n; i++) {
             if(!visited.contains(i)) {
                 visited.insert(i);
-                vector<int> temp_permu = cur_permu;
-                temp_permu.push_back(i);
-                permutation(permu, visited, temp_permu, n);
+                permutation(permu, visited, cur_permu + to_string(i) + " ", n);
                 visited.erase(i);
             }
         }
@@ -28,16 +27,9 @@ int main() {
     int n;
     cin >> n;
 
-    vector<vector<int>> permu;
+    vector<string> permu;
     unordered_set<int> visited;
-    permutation(permu, visited, vector<int>(0), n);
-
-    for(const vector<int>& permu_line: permu) {
-        for(const int& item: permu_line) {
-            printf("%d ", item);
-        }
-        printf("\n");
-    }
+    permutation(permu, visited, "", n);
 
     return 0;
 }
