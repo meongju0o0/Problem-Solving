@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
 #include <tuple>
-#include <queue>
+#include <stack>
 
 #define HORIZON (-100)
 #define VERTICAL (-200)
@@ -10,13 +10,13 @@
 using namespace std;
 
 int get_path_cnt(const vector<vector<int>>& map, const int n) {
-    queue<tuple<int, int, int>> candidates;
+    stack<tuple<int, int, int>> candidates;
     int path_cnt = 0;
 
     candidates.emplace(1, 2, HORIZON);
 
     while(!candidates.empty()) {
-        tuple<int, int, int> cur_pos = candidates.front();
+        tuple<int, int, int> cur_pos = candidates.top();
         candidates.pop();
         const int y_pos = get<0>(cur_pos);
         const int x_pos = get<1>(cur_pos);

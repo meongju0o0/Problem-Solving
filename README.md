@@ -70,7 +70,7 @@
 - [no_12851(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12851.cpp)
 - [no_13549(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13549.cpp)
 - [no_13913(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13913.cpp)
-- [no_17070(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_17070.cpp)
+- [no_17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_17070.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
