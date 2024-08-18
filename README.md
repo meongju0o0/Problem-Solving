@@ -106,6 +106,7 @@
 - [no_15624(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15624.cpp)
 - [no_10830(matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10830.cpp)
 - [no_2630(Divide & Conquer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2630.cpp)
+- [no_1074(Z-Curve Order)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1074.cpp)
 
 ### Back Tracking
 - [no_15650(combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15650.cpp)
