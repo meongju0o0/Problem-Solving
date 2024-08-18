@@ -17,7 +17,7 @@
 - [no_1874(stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1874.cpp)
 - [no_28278(pure stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28278.cpp)
 - [no_12789(stack, ordering)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_12789.cpp)
-- [no_28279(Deque)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28279.cpp)
+- [no_28279(deque)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_28279.cpp)
 
 ## Linked List
 - [no_1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1406.cpp)
@@ -100,7 +100,7 @@
 ### Pure Recursive Function
 - [no_2448(recursive pattern printing)](https://github.com/meongju0o0/baekjoon/blob/master/python/no_2448.py)
 
-### Divide&Conquer
+### Divide & Conquer
 - [no_11444(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11444.cpp)
 - [no_2749(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2749.cpp)
 - [no_15624(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_15624.cpp)
@@ -130,7 +130,8 @@
 - [no_10807(for loop)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_10807.cpp)
 - [no_2740(linear algebra)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2740.cpp)
 - [no_2108(statistics)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2108.cpp)
-- [no_1654(Binary Search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1654.cpp)
+- [no_1654(binary search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1654.cpp)
+- [no_2805(binary search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2805.cpp)
 
 ## Geometry
 - [no_1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/no_1064.py)
@@ -175,4 +176,3 @@
 - [no_11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11660.cpp)
 - [no_2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2559.cpp)
 
-## Temp
