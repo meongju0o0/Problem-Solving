@@ -19,7 +19,7 @@ array<array<int, 2>, 2> mat_pow(unordered_map<int, array<array<int, 2>, 2>*>& me
     if(memo.contains(pow)) {
         return *(memo[pow]);
     }
-    else if(pow%2 == 0) {
+    else if(pow % 2 == 0) {
         array<array<int, 2>, 2> result = mat_mul(mat_pow(memo, matA, pow/2), mat_pow(memo, matA, pow/2));
         memo[pow] = &result;
         return *(memo[pow]);

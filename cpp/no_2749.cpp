@@ -4,13 +4,14 @@
 
 using namespace std;
 
+1000000
 array<array<unsigned long long, 2>, 2> mat_mul(const array<array<unsigned long long, 2>, 2>& matA, const array<array<unsigned long long, 2>, 2>& matB) {
-    array<array<unsigned long long, 2>, 2> result = matA;
-
-    result[0][0] = (matA[0][0] * matB[0][0] + matA[0][1] * matB[1][0])%1000000;
-    result[0][1] = (matA[0][0] * matB[1][0] + matA[0][1] * matB[1][1])%1000000;
-    result[1][0] = (matA[1][0] * matB[0][0] + matA[1][1] * matB[1][0])%1000000;
-    result[1][1] = (matA[1][0] * matB[0][1] + matA[1][1] * matB[1][1])%1000000;
+    const array<array<unsigned long long, 2>, 2> result = {
+        (matA[0][0] * matB[0][0] + matA[0][1] * matB[1][0]) % 1000000,
+        (matA[0][0] * matB[0][1] + matA[0][1] * matB[1][1]) % 1000000,
+        (matA[1][0] * matB[0][0] + matA[1][1] * matB[1][0]) % 1000000,
+        (matA[1][0] * matB[0][1] + matA[1][1] * matB[1][1]) % 1000000
+    };
 
     return result;
 }
