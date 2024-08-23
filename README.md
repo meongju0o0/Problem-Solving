@@ -72,6 +72,7 @@
 - [no_13913(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_13913.cpp)
 - [no_17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_17070.cpp)
 - [no_9019(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_9019.cpp)
+- [no_21736(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_21736.cpp)
 
 ### Dijkstra
 - [no_1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1753.cpp)
@@ -132,6 +133,7 @@
 - [no_2108(statistics)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2108.cpp)
 - [no_1654(binary search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1654.cpp)
 - [no_2805(binary search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2805.cpp)
+- [no_9375(hashed map, combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_9375.cpp)
 
 ## Geometry
 - [no_1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/no_1064.py)
@@ -164,7 +166,7 @@
 - [no_1018(Matrix Check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1018.cpp)
 
 ## Dynamic Programming
-- [no_1003(fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1003.cpp)
+- [no_1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1003.cpp)
 - [no_1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_1463.cpp)
 - [no_11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11053.cpp)
 - [no_11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11722.cpp)
@@ -172,6 +174,7 @@
 - [no_2579(Going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_2579.cpp)
 - [no_11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11726.cpp)
 - [no_11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11727.cpp)
+- [no_9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_9461.cpp)
 
 ## Accumulated Sum
 - [no_11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/no_11659.cpp)
