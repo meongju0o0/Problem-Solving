@@ -3,4 +3,4 @@ project(baekjoon)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(baekjoon no_21736.cpp)
+add_executable(baekjoon BOJ10026.cpp)

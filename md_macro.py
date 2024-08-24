@@ -20,17 +20,21 @@ if __name__ == '__main__':
             existing_paths.add(match.group(2))
 
     new_entries = []
+
     for root, _, files in os.walk(repo_dir):
         for file in files:
             if file.endswith(".cpp") or file.endswith(".py"):
                 full_path = os.path.join(root, file)
                 relative_path = os.path.relpath(full_path, repo_dir)
                 github_url = f"https://github.com/meongju0o0/baekjoon/blob/master/{relative_path.replace(os.sep, '/')}"
+
                 if github_url not in existing_paths:
                     problem_numbers = re.findall(r'\d+', file)
                     if problem_numbers:
                         problem_number = problem_numbers[0]
-                        new_entries.append((problem_number, github_url))
+                        
+                        link_text = f"BOJ{problem_number}"
+                        new_entries.append((problem_number, github_url, link_text))
 
     new_entries.sort(key=lambda x: int(x[0]))
 
@@ -38,5 +42,5 @@ if __name__ == '__main__':
         for line in existing_content:
             file.write(line)
         if new_entries:
-            for problem_number, url in new_entries:
-                file.write(f"- [no_{problem_number}]({url})\n")
+            for problem_number, url, link_text in new_entries:
+                file.write(f"- [{link_text}]({url})\n")
