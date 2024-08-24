@@ -83,6 +83,8 @@
 
 ### Spanning Tree
 - [BOJ1197(Minimum Spanning Tree, Prim Algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1197.cpp)
+- [BOJ1647(Minimum Spanning Tree, Prim Algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1647.cpp)
+- [BOJ1922(Minimum Spanning Tree, Prim Algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1922.cpp)
 
 ### Graph Properties
 - [BOJ1199(Eulerian Circuit)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1199.cpp)
