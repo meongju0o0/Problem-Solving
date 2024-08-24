@@ -106,9 +106,10 @@
 - [BOJ11444(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11444.cpp)
 - [BOJ2749(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2749.cpp)
 - [BOJ15624(fibonacci, matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15624.cpp)
-- [BOJ10830(matrix multiplication)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10830.cpp)
-- [BOJ2630(Divide & Conquer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2630.cpp)
-- [BOJ1074(Z-Curve Order)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1074.cpp)
+- [BOJ10830(matrix power)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10830.cpp)
+- [BOJ2630(divide & conquer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2630.cpp)
+- [BOJ1074(z-curve Order)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1074.cpp)
+- [BOJ1629(integer power)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1629.cpp)
 
 ### Back Tracking
 - [BOJ15650(combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15650.cpp)

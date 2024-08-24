@@ -14,6 +14,7 @@ int main() {
     vector<vector<int>> map(n, vector<int>(m));
     int max_height = INT_MIN;
     int min_height = INT_MAX;
+
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++) {
             cin >> map[i][j];
