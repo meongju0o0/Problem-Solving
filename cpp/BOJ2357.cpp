@@ -1,6 +1,5 @@
 ﻿#include <iostream>
 #include <vector>
-#include <string>
 #include <algorithm>
 #include <climits>
 
@@ -14,7 +13,7 @@ private:
 public:
     MaxSegmentTree(int _num_items, const vector<int>& data) {
         num_items = _num_items;
-        tree.resize(2 * num_items, 1);
+        tree.resize(2 * num_items);
         for (int i = 0; i < num_items; i++) {
             tree[num_items + i] = data[i];
         }
@@ -60,7 +59,7 @@ private:
 public:
     MinSegmentTree(int _num_items, const vector<int>& data) {
         num_items = _num_items;
-        tree.resize(2 * num_items, 1);
+        tree.resize(2 * num_items);
         for (int i = 0; i < num_items; i++) {
             tree[num_items + i] = data[i];
         }
@@ -113,7 +112,6 @@ int main() {
     MaxSegmentTree max_seg_tree(n, items);
     MinSegmentTree min_seg_tree(n, items);
 
-    string result;
     int a, b;
     for(int i = 0; i < m; i++) {
         cin >> a >> b;
