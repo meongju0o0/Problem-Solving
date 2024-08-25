@@ -119,6 +119,14 @@
 - [BOJ15663(duplicated items combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15663.cpp)
 - [BOJ9095(duplicated combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9095.cpp)
 - [BOJ10974(permutation)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10974.cpp)
+- [BOJ15649(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15649.cpp)
+- [BOJ15651(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15651.cpp)
+- [BOJ15655(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15655.cpp)
+- [BOJ15656(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15656.cpp)
+- [BOJ15657(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15657.cpp)
+- [BOJ15664(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15664.cpp)
+- [BOJ15665(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15665.cpp)
+- [BOJ15666(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15666.cpp)
 
 ## Implementation
 - [BOJ25314(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ25314.cpp)
