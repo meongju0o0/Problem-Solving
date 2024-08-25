@@ -1,6 +1,6 @@
-# Baekjoon Online Judge Solved Problems
+# Baekjoon, Programmers Solved Problems
 ## Favorite Language
-- C++, Python
+- C++, Python, SQL
 
 ## Baekjoon Tier
 <a href="https://solved.ac/bl5angel/">
@@ -148,6 +148,7 @@
 - [BOJ2805(binary search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2805.cpp)
 - [BOJ9375(hashed map, combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9375.cpp)
 - [BOJ5525(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5525.cpp)
+- [PC131130(pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC131130.cpp)
 
 ## Geometry
 - [BOJ1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1064.py)
@@ -202,3 +203,7 @@
 - [PC59037](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59037.sql)
 - [PC59403](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59403.sql)
 - [PC59404](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59404.sql)
+- [PC59405](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59405.sql)
+- [PC59407](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59407.sql)
+- [PC131114](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131114.sql)
+- [PC132203](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132203.sql)
