@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
     for root, _, files in os.walk(repo_dir):
         for file in files:
-            if file.endswith(".cpp") or file.endswith(".py"):
+            if file.endswith(".cpp") or file.endswith(".py") or file.endswith(".sql"):
                 full_path = os.path.join(root, file)
                 relative_path = os.path.relpath(full_path, repo_dir)
                 github_url = f"https://github.com/meongju0o0/baekjoon/blob/master/{relative_path.replace(os.sep, '/')}"
@@ -33,7 +33,14 @@ if __name__ == '__main__':
                     if problem_numbers:
                         problem_number = problem_numbers[0]
                         
-                        link_text = f"BOJ{problem_number}"
+                        # Determine link text based on file prefix
+                        if file.startswith("BOJ"):
+                            link_text = f"BOJ{problem_number}"
+                        elif file.startswith("PC"):
+                            link_text = f"PC{problem_number}"
+                        else:
+                            link_text = f"{problem_number}"
+
                         new_entries.append((problem_number, github_url, link_text))
 
     new_entries.sort(key=lambda x: int(x[0]))

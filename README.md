@@ -196,3 +196,9 @@
 - [BOJ11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
 - [BOJ2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2559.cpp)
 
+## SQL
+- [PC131528](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131528.sql)
+- [PC59036](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59036.sql)
+- [PC59037](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59037.sql)
+- [PC59403](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59403.sql)
+- [PC59404](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59404.sql)
