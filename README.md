@@ -43,8 +43,9 @@
 - [BOJ5052(duplicated word searching)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5052.cpp)
 
 ### Segment Tree
-- [BOJ2042(prefix sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2042.cpp)
-- [BOJ11505(prefix mul)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11505.cpp)
+- [BOJ2042(sum query)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2042.cpp)
+- [BOJ11505(mul query)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11505.cpp)
+- [BOJ2357(min, max query)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2357.cpp)
 
 ## Graph
 ### BFS(Breadth First Search) & DFS(Depth First Search)
