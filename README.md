@@ -75,6 +75,7 @@
 - [BOJ9019(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9019.cpp)
 - [BOJ21736(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ21736.cpp)
 - [BOJ10026(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10026.cpp)
+- [PC49189(BFS, get longest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC49189.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
@@ -207,3 +208,5 @@
 - [PC59407](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59407.sql)
 - [PC131114](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131114.sql)
 - [PC132203](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132203.sql)
+
+
