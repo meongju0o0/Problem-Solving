@@ -33,7 +33,6 @@ if __name__ == '__main__':
                     if problem_numbers:
                         problem_number = problem_numbers[0]
                         
-                        # Determine link text based on file prefix
                         if file.startswith("BOJ"):
                             link_text = f"BOJ{problem_number}"
                         elif file.startswith("PC"):

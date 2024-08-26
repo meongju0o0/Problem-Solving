@@ -18,6 +18,7 @@
 - [BOJ28278(pure stack)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ28278.cpp)
 - [BOJ12789(stack, ordering)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12789.cpp)
 - [BOJ28279(deque)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ28279.cpp)
+- [PC12909(bracelet check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC12909.cpp)
 
 ## Linked List
 - [BOJ1406(text editor, cursor)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1406.cpp)
@@ -76,6 +77,7 @@
 - [BOJ21736(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ21736.cpp)
 - [BOJ10026(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10026.cpp)
 - [PC49189(BFS, get longest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC49189.cpp)
+- [PC154540(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC154540.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
