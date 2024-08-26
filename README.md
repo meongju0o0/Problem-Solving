@@ -152,6 +152,11 @@
 - [BOJ9375(hashed map, combination)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9375.cpp)
 - [BOJ5525(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5525.cpp)
 - [PC131130(pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC131130.cpp)
+- [BOJ24263(math)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ24263.py)
+- [BOJ24264(math)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ24264.py)
+- [BOJ24265(math)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ24265.py)
+- [BOJ24266(math)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ24266.py)
+- [BOJ24267(math)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ24267.py)
 
 ## Geometry
 - [BOJ1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1064.py)
@@ -210,5 +215,13 @@
 - [PC59407](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59407.sql)
 - [PC131114](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131114.sql)
 - [PC132203](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132203.sql)
+- [PC59035](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59035.sql)
+- [PC59039](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59039.sql)
+- [PC131112](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131112.sql)
+- [PC131535](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131535.sql)
+- [PC131697](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131697.sql)
+- [PC132201](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132201.sql)
+- [PC133024](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133024.sql)
+- [PC144853](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC144853.sql)
 
 
