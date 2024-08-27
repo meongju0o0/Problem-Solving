@@ -236,4 +236,5 @@
 - [PC298515](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298515.sql)
 - [PC298516](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298516.sql)
 - [PC298517](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298517.sql)
+- [PC301646](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC301646.sql)
 
