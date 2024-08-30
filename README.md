@@ -173,6 +173,9 @@
 - [BOJ18110(sorting, trimmed mean)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ18110.py)
 - [BOJ18870(BST sorted map, coordinate compress)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18870.cpp)
 
+## Two Pointer
+- [BOJ10988(palindrome)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10988.cpp)
+
 ## Greedy Algorithm
 - [BOJ1931(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
 - [BOJ11399(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11399.cpp)
