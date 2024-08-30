@@ -205,36 +205,55 @@
 - [BOJ11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
 - [BOJ2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2559.cpp)
 
-## SQL
-- [PC59034](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59034.sql)
-- [PC59035](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59035.sql)
-- [PC59036](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59036.sql)
-- [PC59037](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59037.sql)
-- [PC59039](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59039.sql)
-- [PC59403](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59403.sql)
-- [PC59404](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59404.sql)
-- [PC59405](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59405.sql)
-- [PC59407](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59407.sql)
-- [PC59415](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59415.sql)
-- [PC131112](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131112.sql)
-- [PC131114](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131114.sql)
-- [PC131528](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131528.sql)
-- [PC131535](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131535.sql)
-- [PC131697](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131697.sql)
-- [PC132201](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132201.sql)
-- [PC132203](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132203.sql)
-- [PC133024](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133024.sql)
-- [PC133025](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
-- [PC144853](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC144853.sql)
-- [PC151136](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC151136.sql)
-- [PC151138](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC151138.sql)
-- [PC157343](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC157343.sql)
-- [PC164673](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
-- [PC276013](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC276013.sql)
-- [PC293258](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC293258.sql)
-- [PC293259](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC293259.sql)
-- [PC298515](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298515.sql)
-- [PC298516](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298516.sql)
-- [PC298517](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298517.sql)
-- [PC301646](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC301646.sql)
+## SQL(MySQL)
+### WHERE
+- [PC59036(where)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59036.sql)
+- [PC59037(where)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59037.sql)
+- [PC298516(where, between)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298516.sql)
+- [PC301646(where, binary)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC301646.sql)
+- [PC131535(where, between)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131535.sql)
+- [PC276013(where, order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC276013.sql)
+
+### ORDER BY
+- [PC59034(order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59034.sql)
+- [PC59035(order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59035.sql)
+- [PC59403(order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59403.sql)
+- [PC59404(order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59404.sql)
+- [PC133024(order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133024.sql)
+
+### LIMIT
+- [PC59405(order by, limit)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59405.sql)
+- [PC298517(order by, limit)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298517.sql)
+
+### GROUP BY
+- [PC59038(min aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59038.sql)
+- [PC59046(count aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59046.sql)
+- [PC59415(max aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59415.sql)
+- [PC131697(max aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131697.sql)
+- [PC151136(average aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC151136.sql)
+- [PC298515(max aggregation)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC298515.sql)
+
+### STRING
+- [PC59047(where, string)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59047.sql)
+- [PC131112(where, order by, string)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131112.sql)
+- [PC131114(where, order by, string)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131114.sql)
+- [PC132203(dateformat, where)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132203.sql)
+- [PC144853(dateformat, where, between)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC144853.sql)
+- [PC151138(dateformat, if, where, order by, string)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC151138.sql)
+- [PC157343(where, order by, string)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC157343.sql)
+
+### NULL
+- [PC132201(ifnull, where, order by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC132201.sql)
+- [PC59039(null check)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59039.sql)
+- [PC59407(not null)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59407.sql)
+- [PC131528(null check)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC131528.sql)
+- [PC293258(null check)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC293258.sql)
+- [PC293259(null check)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC293259.sql)
+
+### SUB QUERY
+- [PC59041(sub query, group by)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC59041.sql)
+
+### JOIN
+- [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
+- [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
 
