@@ -187,10 +187,11 @@
 - [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
 
 ## Brute-Force
-- [BOJ2231(Digit Generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
-- [BOJ1436(Digit Check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1436.cpp)
-- [BOJ1018(Matrix Check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1018.cpp)
-- [BOJ18111(Matrix Check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18111.cpp)
+- [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
+- [BOJ1436(digit check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1436.cpp)
+- [BOJ1018(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1018.cpp)
+- [BOJ18111(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18111.cpp)
+- [BOJ14500(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14500.cpp)
 
 ## Dynamic Programming
 - [BOJ1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1003.cpp)
@@ -259,4 +260,5 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
+
 
