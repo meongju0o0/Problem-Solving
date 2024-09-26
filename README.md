@@ -185,6 +185,7 @@
 - [BOJ2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2057.cpp)
 - [BOJ1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1541.cpp)
 - [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
+- [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
@@ -260,5 +261,4 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
-
 
