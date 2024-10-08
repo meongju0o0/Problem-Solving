@@ -160,6 +160,9 @@
 
 ## Geometry
 - [BOJ1064(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1064.py)
+- [BOJ16486(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16486.cpp)
+- [BOJ29751(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ29751.cpp)
+- [BOJ32025(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ32025.cpp)
 
 ## Sorting
 - [BOJ10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10989.cpp)
@@ -186,6 +189,10 @@
 - [BOJ1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1541.cpp)
 - [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
 - [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
+- [BOJ1343(greedy algorithm, polyomino)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1343.cpp)
+- [BOJ11000(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11000.cpp)
+- [BOJ14916(greedy algorithm, coin change)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14916.cpp)
+- [BOJ16953(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16953.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
@@ -207,7 +214,7 @@
 
 ## Accumulated Sum
 - [BOJ11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11659.cpp)
-- [BOJ11660(DP, N×N accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
+- [BOJ11660(DP, NxN accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
 - [BOJ2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2559.cpp)
 
 ## SQL(MySQL)
