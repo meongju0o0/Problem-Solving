@@ -4,7 +4,7 @@
 
 using namespace std;
 
-bool end_time_compare(vector<int>& time1, vector<int>& time2) {
+bool cmp(const vector<int>& time1, const vector<int>& time2) {
     if (time1[1] != time2[1]) {
         return time1[1] < time2[1];
     }
@@ -25,7 +25,7 @@ int main() {
         cin >> times[i][0] >> times[i][1];
     }
 
-    sort(times.begin(), times.end(), end_time_compare);
+    ranges::sort(times.begin(), times.end(), cmp);
 
     int cur_end_time = 0;
     int cnt = 0;
@@ -36,10 +36,7 @@ int main() {
         }
     }
 
-    cout << cnt << endl;
-
-    times.clear();
-    times.shrink_to_fit();
+    printf("%d", cnt);
 
     return 0;
 }
