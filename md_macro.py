@@ -23,7 +23,7 @@ if __name__ == '__main__':
 
     for root, _, files in os.walk(repo_dir):
         for file in files:
-            if file.endswith(".cpp") or file.endswith(".py") or file.endswith(".sql"):
+            if file.endswith(".cpp") or file.endswith(".py") or file.endswith(".sql") or file.endswith(".c"):
                 full_path = os.path.join(root, file)
                 relative_path = os.path.relpath(full_path, repo_dir)
                 github_url = f"https://github.com/meongju0o0/baekjoon/blob/master/{relative_path.replace(os.sep, '/')}"

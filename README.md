@@ -163,6 +163,12 @@
 - [BOJ16486(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16486.cpp)
 - [BOJ29751(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ29751.cpp)
 - [BOJ32025(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ32025.cpp)
+- [BOJ3034(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ3034.c)
+- [BOJ5073(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ5073.c)
+- [BOJ6322(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ6322.c)
+- [BOJ7510(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ7510.c)
+- [BOJ9063(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ9063.c)
+- [BOJ9366(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ9366.c)
 
 ## Sorting
 - [BOJ10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10989.cpp)
