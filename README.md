@@ -33,7 +33,7 @@
 ### BST(Binary Search Tree)
 - [BOJ5639(pure BST)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5639.cpp)
 
-### Priority Queue
+### Heap
 - [BOJ1927(min heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1927.cpp)
 - [BOJ11279(max heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11279.cpp)
 - [BOJ11286(absolute min heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11286.cpp)
