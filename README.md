@@ -169,6 +169,15 @@
 - [BOJ7510(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ7510.c)
 - [BOJ9063(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ9063.c)
 - [BOJ9366(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ9366.c)
+- [BOJ2756(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ2756.c)
+- [BOJ6502(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ6502.c)
+- [BOJ10569(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ10569.c)
+- [BOJ14215(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ14215.c)
+- [BOJ14264(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ14264.c)
+- [BOJ15923(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ15923.c)
+- [BOJ16479(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ16479.c)
+- [BOJ16483(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ16483.c)
+- [BOJ22938(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ22938.c)
 
 ## Sorting
 - [BOJ10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10989.cpp)
@@ -217,6 +226,7 @@
 - [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
 - [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
 - [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
+- [BOJ11049(matrix multiplication optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11049.cpp)
 
 ## Accumulated Sum
 - [BOJ11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11659.cpp)
