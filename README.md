@@ -230,6 +230,7 @@
 - [BOJ11049(matrix multiplication optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11049.cpp)
 - [BOJ1149(rgb costs optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1149.cpp)
 - [BOJ1912(maximum sub array sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1912.cpp)
+- [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
 
 ## Accumulated Sum
 - [BOJ11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11659.cpp)
