@@ -132,6 +132,66 @@
 - [BOJ15665(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15665.cpp)
 - [BOJ15666(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15666.cpp)
 
+## Greedy Algorithm
+- [BOJ1931(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
+- [BOJ11399(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11399.cpp)
+- [BOJ11047(greedy algorithm, BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11047.cpp)
+- [BOJ12904(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12904.cpp)
+- [BOJ1439(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1439.cpp)
+- [BOJ2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2057.cpp)
+- [BOJ1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1541.cpp)
+- [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
+- [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
+- [BOJ1343(greedy algorithm, polyomino)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1343.cpp)
+- [BOJ11000(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11000.cpp)
+- [BOJ14916(greedy algorithm, coin change)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14916.cpp)
+- [BOJ16953(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16953.cpp)
+- [BOJ1715(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1715.cpp)
+
+## Dynamic Programming
+- [BOJ1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1003.cpp)
+- [BOJ1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1463.cpp)
+- [BOJ11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11053.cpp)
+- [BOJ11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11722.cpp)
+- [BOJ11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11054.cpp)
+- [BOJ9251(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9251.cpp)
+- [BOJ2579(going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2579.cpp)
+- [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
+- [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
+- [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
+- [BOJ11049(matrix multiplication optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11049.cpp)
+- [BOJ1149(rgb costs optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1149.cpp)
+- [BOJ1912(maximum sub array sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1912.cpp)
+- [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
+- [BOJ11051(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11051.cpp)
+
+## Brute-Force
+- [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
+- [BOJ1436(digit check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1436.cpp)
+- [BOJ1018(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1018.cpp)
+- [BOJ18111(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18111.cpp)
+- [BOJ14500(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14500.cpp)
+
+## Sorting
+- [BOJ10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10989.cpp)
+- [BOJ1181(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1181.cpp)
+- [BOJ2751(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2751.cpp)
+- [BOJ1920(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1920.cpp)
+- [BOJ11650(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11650.cpp)
+- [BOJ11651(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11651.cpp)
+- [BOJ10814(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10814.cpp)
+- [BOJ7568(unordered vector, tuple records, ranking comparison)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ7568.cpp)
+- [BOJ18110(sorting, trimmed mean)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ18110.py)
+- [BOJ18870(BST sorted map, coordinate compress)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18870.cpp)
+
+## Two Pointer
+- [BOJ10988(palindrome)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10988.cpp)
+
+## Accumulated Sum
+- [BOJ11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11659.cpp)
+- [BOJ11660(DP, NxN accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
+- [BOJ2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2559.cpp)
+
 ## Implementation
 - [BOJ25314(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ25314.cpp)
 - [BOJ25083(string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ25083.cpp)
@@ -178,64 +238,6 @@
 - [BOJ16479(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ16479.c)
 - [BOJ16483(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ16483.c)
 - [BOJ22938(geometry)](https://github.com/meongju0o0/baekjoon/blob/master/c/BOJ22938.c)
-
-## Sorting
-- [BOJ10989(sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10989.cpp)
-- [BOJ1181(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1181.cpp)
-- [BOJ2751(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2751.cpp)
-- [BOJ1920(BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1920.cpp)
-- [BOJ11650(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11650.cpp)
-- [BOJ11651(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11651.cpp)
-- [BOJ10814(BST sorted set, tuple records)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10814.cpp)
-- [BOJ7568(unordered vector, tuple records, ranking comparison)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ7568.cpp)
-- [BOJ18110(sorting, trimmed mean)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ18110.py)
-- [BOJ18870(BST sorted map, coordinate compress)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18870.cpp)
-
-## Two Pointer
-- [BOJ10988(palindrome)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10988.cpp)
-
-## Greedy Algorithm
-- [BOJ1931(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
-- [BOJ11399(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11399.cpp)
-- [BOJ11047(greedy algorithm, BST sorted set)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11047.cpp)
-- [BOJ12904(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12904.cpp)
-- [BOJ1439(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1439.cpp)
-- [BOJ2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2057.cpp)
-- [BOJ1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1541.cpp)
-- [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
-- [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
-- [BOJ1343(greedy algorithm, polyomino)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1343.cpp)
-- [BOJ11000(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11000.cpp)
-- [BOJ14916(greedy algorithm, coin change)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14916.cpp)
-- [BOJ16953(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16953.cpp)
-
-## Brute-Force
-- [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
-- [BOJ1436(digit check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1436.cpp)
-- [BOJ1018(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1018.cpp)
-- [BOJ18111(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18111.cpp)
-- [BOJ14500(matrix check)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14500.cpp)
-
-## Dynamic Programming
-- [BOJ1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1003.cpp)
-- [BOJ1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1463.cpp)
-- [BOJ11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11053.cpp)
-- [BOJ11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11722.cpp)
-- [BOJ11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11054.cpp)
-- [BOJ9251(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9251.cpp)
-- [BOJ2579(going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2579.cpp)
-- [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
-- [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
-- [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
-- [BOJ11049(matrix multiplication optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11049.cpp)
-- [BOJ1149(rgb costs optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1149.cpp)
-- [BOJ1912(maximum sub array sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1912.cpp)
-- [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
-
-## Accumulated Sum
-- [BOJ11659(accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11659.cpp)
-- [BOJ11660(DP, NxN accumulated sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11660.cpp)
-- [BOJ2559(accumulated sum, two pointer)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2559.cpp)
 
 ## SQL(MySQL)
 ### WHERE
