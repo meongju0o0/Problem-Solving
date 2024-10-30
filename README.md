@@ -166,6 +166,7 @@
 - [BOJ1912(maximum sub array sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1912.cpp)
 - [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
 - [BOJ11051(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11051.cpp)
+- [BOJ1932(maximum triangle)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1932.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
