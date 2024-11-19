@@ -49,7 +49,7 @@
 - [BOJ2357(min, max query)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2357.cpp)
 
 ## Graph
-### BFS(Breadth First Search) & DFS(Depth First Search)
+### BFS(Breadth First Search)
 - [BOJ1260(pure DFS, BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1260.cpp)
 - [BOJ1389(Kevin Bacon's 6 degree rule, BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1389.cpp)
 - [BOJ7569(BFS Search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ7569.cpp)
@@ -58,8 +58,6 @@
 - [BOJ14940(BFS Search)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14940.cpp)
 - [BOJ11724(BFS, counting number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11724.cpp)
 - [BOJ1707(BFS, checking bipartite graph)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1707.cpp)
-- [BOJ24479(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24479.cpp)
-- [BOJ24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24444.cpp)
 - [BOJ24445(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24445.cpp)
 - [BOJ24480(pure BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24480.cpp)
 - [BOJ2606(BFS, couting number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2606.cpp)
@@ -72,7 +70,6 @@
 - [BOJ12851(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12851.cpp)
 - [BOJ13549(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13549.cpp)
 - [BOJ13913(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13913.cpp)
-- [BOJ17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17070.cpp)
 - [BOJ9019(BFS, get shortest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9019.cpp)
 - [BOJ21736(BFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ21736.cpp)
 - [BOJ10026(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10026.cpp)
@@ -80,6 +77,12 @@
 - [PC154540(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC154540.cpp)
 - [BOJ2468(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2468.cpp)
 - [BOJ14502(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14502.cpp)
+
+### DFS(Depth First Search)
+- [BOJ1260(pure DFS, BFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1260.cpp)
+- [BOJ24479(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24479.cpp)
+- [BOJ24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24444.cpp)
+- [BOJ17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17070.cpp)
 - [BOJ1068(DFS, get number of leaf nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1068.cpp)
 
 ### Dijkstra
