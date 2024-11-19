@@ -80,6 +80,7 @@
 - [PC154540(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC154540.cpp)
 - [BOJ2468(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2468.cpp)
 - [BOJ14502(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14502.cpp)
+- [BOJ1068(DFS, get number of leaf nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1068.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
