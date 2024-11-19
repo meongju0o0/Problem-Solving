@@ -78,6 +78,8 @@
 - [BOJ10026(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ10026.cpp)
 - [PC49189(BFS, get longest path)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC49189.cpp)
 - [PC154540(BFS, get number of graphs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/PC154540.cpp)
+- [BOJ2468(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2468.cpp)
+- [BOJ14502(BFS, get area's count)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14502.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
@@ -167,6 +169,10 @@
 - [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
 - [BOJ11051(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11051.cpp)
 - [BOJ1932(maximum triangle)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1932.cpp)
+- [BOJ1351(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1351.cpp)
+- [BOJ1354(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1354.cpp)
+- [BOJ1788(extended fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1788.cpp)
+- [BOJ9711(modified fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9711.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
