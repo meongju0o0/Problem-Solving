@@ -177,6 +177,8 @@
 - [BOJ1354(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1354.cpp)
 - [BOJ1788(extended fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1788.cpp)
 - [BOJ9711(modified fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9711.cpp)
+- [BOJ1793(tiling)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1793.py)
+- [BOJ16395(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16395.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
@@ -303,4 +305,3 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
-
