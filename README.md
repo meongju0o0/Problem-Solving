@@ -84,6 +84,7 @@
 - [BOJ24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24444.cpp)
 - [BOJ17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17070.cpp)
 - [BOJ1068(DFS, get number of leaf nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1068.cpp)
+- [BOJ9655(DFS, get number of sub tree nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9655.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
@@ -163,6 +164,7 @@
 - [BOJ11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11054.cpp)
 - [BOJ9251(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9251.cpp)
 - [BOJ15482(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15482.cpp)
+- [BOJ5582(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5582.cpp)
 - [BOJ2579(going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2579.cpp)
 - [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
 - [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
