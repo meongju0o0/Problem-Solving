@@ -181,17 +181,18 @@
 - [BOJ1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1463.cpp)
 
 ### Progression
+- [BOJ1788(extended fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1788.cpp)
+- [BOJ9711(modified fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9711.cpp)
 - [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
 - [BOJ1351(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1351.cpp)
 - [BOJ1354(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1354.cpp)
-- [BOJ1788(extended fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1788.cpp)
-- [BOJ9711(modified fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9711.cpp)
 
 ### Knapsack
 - [BOJ1535(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1535.cpp)
 - [BOJ12865(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12865.cpp)
 - [BOJ14728(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14728.cpp)
 - [BOJ16493(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16493.cpp)
+- [BOJ17845(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17845.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
@@ -318,3 +319,4 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
+
