@@ -157,30 +157,40 @@
 - [BOJ12931(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12931.cpp)
 
 ## Dynamic Programming
-- [BOJ1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1003.cpp)
-- [BOJ1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1463.cpp)
-- [BOJ11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11053.cpp)
-- [BOJ11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11722.cpp)
-- [BOJ11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11054.cpp)
-- [BOJ9251(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9251.cpp)
-- [BOJ15482(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15482.cpp)
-- [BOJ5582(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5582.cpp)
 - [BOJ2579(going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2579.cpp)
 - [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
 - [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
-- [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
 - [BOJ11049(matrix multiplication optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11049.cpp)
 - [BOJ1149(rgb costs optimization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1149.cpp)
 - [BOJ1912(maximum sub array sum)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1912.cpp)
 - [BOJ17069(get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17069.cpp)
 - [BOJ11051(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11051.cpp)
 - [BOJ1932(maximum triangle)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1932.cpp)
+- [BOJ1793(tiling)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1793.py)
+- [BOJ16395(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16395.cpp)
+
+### Subsequence
+- [BOJ11053(LIS, Longest Increasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11053.cpp)
+- [BOJ11722(LDS, Longest Decreasing Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11722.cpp)
+- [BOJ11054(LBS, Longest Bitonic Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11054.cpp)
+- [BOJ9251(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9251.cpp)
+- [BOJ15482(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15482.cpp)
+- [BOJ5582(LCS, Longest Common Subsequence)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5582.cpp)
+- [BOJ1003(fibonacci progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1003.cpp)
+- [BOJ1463(counting recursive call)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1463.cpp)
+
+### Progression
+- [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
 - [BOJ1351(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1351.cpp)
 - [BOJ1354(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1354.cpp)
 - [BOJ1788(extended fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1788.cpp)
 - [BOJ9711(modified fibonacci)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9711.cpp)
-- [BOJ1793(tiling)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ1793.py)
-- [BOJ16395(binomial coefficient)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16395.cpp)
+
+### Knapsack
+- [BOJ1535(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1535.cpp)
+- [BOJ12865(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12865.cpp)
+- [BOJ14728(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14728.cpp)
+- [BOJ16493(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16493.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
