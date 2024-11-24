@@ -157,6 +157,7 @@
 - [BOJ12931(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12931.cpp)
 
 ## Dynamic Programming
+### Memoization & Tabulation
 - [BOJ2579(going up the stairs)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2579.cpp)
 - [BOJ11726(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11726.cpp)
 - [BOJ11727(2xN tiles)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11727.cpp)
