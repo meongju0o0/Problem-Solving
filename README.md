@@ -138,6 +138,7 @@
 - [BOJ15664(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15664.cpp)
 - [BOJ15665(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15665.cpp)
 - [BOJ15666(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15666.cpp)
+- [BOJ9663(n queens)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9663.cpp)
 
 ## Greedy Algorithm
 - [BOJ1931(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
