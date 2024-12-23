@@ -157,6 +157,7 @@
 - [BOJ1715(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1715.cpp)
 - [BOJ12931(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12931.cpp)
 - [BOJ19598(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ19598.cpp)
+- [BOJ1374(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1374.cpp)
 
 ## Dynamic Programming
 ### Memoization & Tabulation
