@@ -138,6 +138,11 @@
 - [BOJ15664(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15664.cpp)
 - [BOJ15665(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15665.cpp)
 - [BOJ15666(generate progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15666.cpp)
+- [BOJ1535(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1535.cpp)
+- [BOJ12865(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12865.cpp)
+- [BOJ14728(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14728.cpp)
+- [BOJ16493(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16493.cpp)
+- [BOJ17845(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17845.cpp)
 - [BOJ9663(n queens)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9663.cpp)
 
 ## Greedy Algorithm
@@ -205,13 +210,6 @@
 - [BOJ9461(padovan progression)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9461.cpp)
 - [BOJ1351(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1351.cpp)
 - [BOJ1354(progression memoization)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1354.cpp)
-
-### Knapsack
-- [BOJ1535(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1535.cpp)
-- [BOJ12865(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12865.cpp)
-- [BOJ14728(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14728.cpp)
-- [BOJ16493(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16493.cpp)
-- [BOJ17845(knapsack problem)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17845.cpp)
 
 ## Brute-Force
 - [BOJ2231(digit generator)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2231.cpp)
