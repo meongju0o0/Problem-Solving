@@ -33,7 +33,7 @@
 ### BST(Binary Search Tree)
 - [BOJ5639(pure BST)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ5639.cpp)
 
-### Heap
+### Priority Queue(Heap)
 - [BOJ1927(min heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1927.cpp)
 - [BOJ11279(max heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11279.cpp)
 - [BOJ11286(absolute min heap)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11286.cpp)
@@ -148,20 +148,22 @@
 - [BOJ14916(greedy algorithm, coin change)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14916.cpp)
 
 ### Meeting scheduling
-- [BOJ1931(greedy algorithm, meeting scheduling)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
 - [BOJ1374(greedy algorithm, meeting scheduling)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1374.cpp)
+- [BOJ1931(greedy algorithm, meeting scheduling)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1931.cpp)
+- [BOJ11000(greedy algorithm, meeting scheduling)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11000.cpp)
 - [BOJ19598(greedy algorithm, meeting scheduling)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ19598.cpp)
 
+### Toggle Characters
+- [BOJ12904(greedy algorithm, toggle characters)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12904.cpp)
+- [BOJ1439(greedy algorithm, toggle characters)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1439.cpp)
+
 ### Others
-- [BOJ11399(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11399.cpp)
-- [BOJ12904(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12904.cpp)
-- [BOJ1439(greedy algorithm, toggle character)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1439.cpp)
-- [BOJ2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2057.cpp)
 - [BOJ1541(greedy algorithm, linked list, math, string)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1541.cpp)
 - [BOJ13305(greedy algorithm, accumulatd min)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ13305.cpp)
-- [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
+- [BOJ11399(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11399.cpp)
 - [BOJ1343(greedy algorithm, polyomino)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1343.cpp)
-- [BOJ11000(greedy algorithm, sorting)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ11000.cpp)
+- [BOJ2057(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ2057.cpp)
+- [BOJ18185(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ18185.cpp)
 - [BOJ16953(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ16953.cpp)
 - [BOJ1715(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1715.cpp)
 - [BOJ12931(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ12931.cpp)
