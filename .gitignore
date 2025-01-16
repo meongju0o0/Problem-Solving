@@ -1,8 +1,6 @@
 /.vscode
-/cpp/cmake-build-debug
-/cpp/cmake-build-debug-cygwin
-/cpp/cmake-build-debug-msvc
-/cpp/.idea
+/cpp/build
+/cpp/debug
 /c/build
 /c/debug
 /python/.idea
