@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -pedantic -O2 -g CMakeFiles/baekjoon.dir/BOJ4796.cpp.o -o baekjoon 
