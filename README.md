@@ -187,6 +187,8 @@
 - [BOJ31880(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ31880.cpp)
 - [BOJ32141(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ32141.cpp)
 - [BOJ4796(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ4796.cpp)
+- [BOJ9329(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9329.cpp)
+- [BOJ14659(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ14659.cpp)
 
 ## Dynamic Programming
 ### Memoization & Tabulation
@@ -353,4 +355,3 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
-

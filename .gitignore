@@ -1,6 +1,8 @@
 /.vscode
+/cpp/.vscode
 /cpp/build
 /cpp/debug
+/c/.vscode
 /c/build
 /c/debug
-/python/.idea
+/python/.vscode
