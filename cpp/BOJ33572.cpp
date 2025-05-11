@@ -1,14 +1,38 @@
 #include <iostream>
+#include <vector>
+
+typedef long long int64;
 
 using namespace std;
 
 int main() {
-    int n;
-    std::cin >> n;
-    int ans = 0;
-    for (int i = 1; i <= n; ++i) {
-        ans += i * i;
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+
+    int64 n, m;
+    cin >> n >> m;
+
+    vector<int64> v(n);
+    for (int64& item: v) {
+        cin >> item;
     }
-    std::cout << ans << std::endl;
+
+    bool flag = true;
+    for (const int64& item: v) {
+        m -= item - 1;
+        if (m <= 0) {
+            flag = false;
+            break;
+        }
+    }
+
+    if (flag) {
+        printf("OUT\n");
+    }
+    else {
+        printf("DIMI\n");
+    }
+
     return 0;
 }
