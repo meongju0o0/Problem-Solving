@@ -84,7 +84,7 @@
 - [BOJ24444(pure DFS)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ24444.cpp)
 - [BOJ17070(DFS, get number of paths)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ17070.cpp)
 - [BOJ1068(DFS, get number of leaf nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1068.cpp)
-- [BOJ9655(DFS, get number of sub tree nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ9655.cpp)
+- [BOJ15681(DFS, get number of sub tree nodes)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ15681.cpp)
 
 ### Dijkstra
 - [BOJ1753(shortest path's weight)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ1753.cpp)
@@ -198,6 +198,7 @@
 - [BOJ27951(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ27951.cpp)
 - [BOJ27961(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/python/BOJ27961.py)
 - [BOJ28063(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ28063.cpp)
+- [BOJ33572(greedy algorithm)](https://github.com/meongju0o0/baekjoon/blob/master/cpp/BOJ33572.cpp)
 
 ## Dynamic Programming
 ### Memoization & Tabulation
@@ -364,4 +365,3 @@
 ### JOIN
 - [PC133025(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC133025.sql)
 - [PC164673(equali join)](https://github.com/meongju0o0/baekjoon/blob/master/sql/PC164673.sql)
-
